@@ -1,2 +1,5 @@
 *.csv
 *.json
+
+.json
+.csv
